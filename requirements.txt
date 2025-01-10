@@ -1,0 +1,17 @@
+# python-dotenv
+# huggingface-hub==0.22.2
+# langchain-community
+# langchain-chroma==0.1.0
+# langchain-google-genai==1.0.3
+# langchain-openai==0.1.6
+# pypdf==4.2.0
+# PyPDF2==3.0.1
+# sentence-transformers==2.7.0
+# rapidocr-onnxruntime
+# streamlit
+# pymupdf
+# streamlit-scrollable-textbox
+
+streamlit 
+langchain-google-genai 
+python-dotenv
